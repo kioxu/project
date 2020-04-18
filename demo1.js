@@ -8,4 +8,5 @@ for (var i = 0; i < 10; i++) {
 console.log("-------------");
 // console.log(a);
 console.log("-------------");
+console.log('ddddd')
 a[6]();
